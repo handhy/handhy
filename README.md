@@ -8,7 +8,7 @@
 
 
 - 💡 In my spare time I like to share insights regarding the data science I'm studying and the projects I'm working on through my [medium](https://medium.com/@rizhandbow).
-- 💻 Throughout my career journey, I've worked at various fields of industry: Multifinance (NSC), Insurance (MNC Life, Allianz, Prudential), Muslim Community App (umma)
+- 💻 Throughout my career journey, I've worked at various fields of industry: Multifinance (NSC), Insurance (MNC Life, Allianz, Prudential), StartUp (Klik Dokter, umma), Mining Construction (BUMA)
 
 I like to meet new friends and can be contacted via [LinkedIn](https://www.linkedin.com/in/rizhandbow/). So, feel free to contact me if you have a topic to discuss or an interesting project collaboration.
 
